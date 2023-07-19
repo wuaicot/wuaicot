@@ -4,7 +4,7 @@
 
 ### <div align="center">A full stack developer who loves technology.</div>  
   
-###  A full stack developer who loves technology.
+
 Since I was little I get along well with drawing and computers. I studied a year of advanced architecture, I am also certified in design and execution of metallic and non-metallic structures. In 2022 I started learning programming. I recently finished Soy Henry's bootcamp, with the title of Full Stack Developer. There we learned to work with Javascript-based technologies, such as Node Js, React, Redux, PostgresSQL, Github. Technological skills mainly oriented to web development. I look forward to starting a career in the programming industry, continuing to learn and develop skills alongside a team of surely very interesting people.
 
 
