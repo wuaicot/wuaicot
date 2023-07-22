@@ -9,6 +9,7 @@ Since I was little I get along well with drawing and computers. I studied a year
 
 
 Cell. +56 937735366  
+wuaicot8@gmail.com
   
 ### Connect with me  
 <a href="https://linkedin.com/in/wuaicot" target="_blank">
