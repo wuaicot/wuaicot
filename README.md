@@ -9,7 +9,7 @@ Since I was little I get along well with drawing and computers. I studied a year
 
 
 Cell. +56 937735366  
-Portfolio: https://capable-platypus-f7f625.netlify.app/
+Portfolio: https://frontend-portfolio-production.up.railway.app/
       E-mail: wuaicot8@gmail.com
 
   
