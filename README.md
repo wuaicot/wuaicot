@@ -8,7 +8,7 @@
 Since I was little I get along well with drawing and computers. I studied a year of advanced architecture, I am also certified in design and execution of metallic and non-metallic structures. In 2022 I started learning programming. I recently finished Soy Henry's bootcamp, with the title of Full Stack Developer. There we learned to work with Javascript-based technologies, such as Node Js, React, Redux, PostgresSQL, Github. Technological skills mainly oriented to web development. I look forward to starting a career in the programming industry, continuing to learn and develop skills alongside a team of surely very interesting people.
 
 
-Cell. +56 963380684  
+Cell. +56 937735366  
 Portfolio: https://frontend-portfolio-production.up.railway.app/
       E-mail: wuaicot8@gmail.com
 
