@@ -3,15 +3,6 @@
   
   
   
-  
-  
-  
-  
-  
-  ### console.log ('Hello World 👋')
-
-
-
 ### <div align="center">A full stack developer who loves technology.</div>  
   
 
