@@ -7,9 +7,9 @@
 
 ---
 
-## 👨‍🚀 About Me
+## 👨‍🚀 Acerca de mi
 
-Hola, soy **Naycol**, aunque en el ciberespacio me conocen como **Wuaicot** 🤖
+ Soy **Naycol R. Linares V.**, aunque en el ciberespacio me conocen como **Wuaicot** 🤖
 
 🧩 Antes diseñaba estructuras metálicas, hoy diseño soluciones digitales.  
 📚 En 2022 decidí resetear mi carrera y convertirme en desarrollador Full Stack.  
