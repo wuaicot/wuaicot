@@ -9,11 +9,11 @@
 
 ## 👨‍🚀 About Me
 
-Hola, soy **Naycol**, aunque en el ciberespacio me conocen como **Wuaicot** 👾.
+Hola, soy **Naycol**, aunque en el ciberespacio me conocen como **Wuaicot** 🤖
 
-🧩 Antes diseñaba estructuras metálicas, hoy diseño experiencias web.  
-📚 En 2022 decidí resetear mi carrera y convertirme en desarrollador.  
-🚀 Bootcamp graduado en **Soy Henry** y autodidacta sin botón de pausa.  
+🧩 Antes diseñaba estructuras metálicas, hoy diseño soluciones digitales.  
+📚 En 2022 decidí resetear mi carrera y convertirme en desarrollador Full Stack.  
+🚀 Bootcamp graduado en **Henry** y autodidacta sin botón de pausa.  
 🧠 Amante de resolver problemas, mejorar UX, y refactorizar hasta que el linter llore de felicidad.  
 
 > “Todo gran código conlleva una gran responsabilidad.” – probablemente Wuaicot
@@ -26,9 +26,9 @@ Hola, soy **Naycol**, aunque en el ciberespacio me conocen como **Wuaicot** 👾
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,nodejs,express,postgres,html,css,firebase,figma,github,vscode" />
 </p>
 
-- ⚙️ **Frontend**: React, Redux, TypeScript, Styled Components, CSS3
-- 🔗 **Backend**: Node.js, Express, PostgreSQL, Firebase
-- 🧰 **Tools**: GitHub, Vercel, Figma, Insomnia, VSCode
+- ⚙️ **Frontend**: React/Next, Redux, TypeScript/JavaScript, Styled Components, CSS3/Taildwind/Bootstrap
+- 🔗 **Backend**: Node/Nest, Express, PostgreSQL/Prisma, Firebase
+- 🧰 **Tools**: GitHub, Vercel/Railway. Figma, Insomnia, VSCode, y más...
 - 🧪 **Now Playing**: Unit testing, Clean Architecture & Next.js
 
 ---
@@ -83,7 +83,7 @@ Aquí algunas cosas que he construido o ayudado a forjar:
 - 🎮 Gamer desde antes que existiera el WiFi.
 - ✍️ Escribo sobre tecnología en mis ratos libres.
 - 🧠 Sé que no sé todo, y por eso cada día aprendo algo nuevo.
-- 🕵️‍♂️ A veces soy freelancer... otras veces soy **solucionador de bugs nivel Jedi**.
+- 🕵️‍♂️ A veces soy freelancer... otras veces soy **solucionador de bugs nivel Jedi** 👾
 
 ---
 
