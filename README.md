@@ -1,43 +1,102 @@
-{"data":{"export":{"domain":"","datetime":"2023-01-01 22:39:50"},"user":{"account":{"username":"wuaicot8","lang":"En, Es, It","id":"260914332"},"name":"Naycol Rodolfo Linares Villasmil","Contact":{"website":"https://mi-portafolio-full-stack.vercel.app/", "phone":{"visible":true,"number":963380684,"country_code":"+56"},"email":{"visible":true,"address":"wuaicot8@gmail.com"}},"gender":"Male","birthdate":"1984-10-08","location":{"country":"Chile","coordinates":{"latitude":-33.015348,"longitude":-71.550028},"city":"Viña del Mar"},"professional":{"tagline":"FULL STACK WEB DEVELOPER","description":"I am a \"FullStack Developer\" I am a "Full Stack Web Developer" I have experience developing SAP , E-Commerce with ReactJS, NodeJS, Redux, postgresSQL, among others. I would be delighted to assist you in solving problems and contributing ideas to the development team. "}}}}
-
-  
-  
-  
-### <div align="center">A full stack developer who loves technology.</div>  
-  
-
-Since I was little I get along well with drawing and computers. I studied a year of advanced architecture, I am also certified in design and execution of metallic and non-metallic structures. In 2022 I started learning programming. I recently finished Soy Henry's bootcamp, with the title of Full Stack Developer. There we learned to work with Javascript-based technologies, such as Node Js, React, Redux, PostgresSQL, Github. Technological skills mainly oriented to web development. I look forward to starting a career in the programming industry, continuing to learn and develop skills alongside a team of surely very interesting people.
-
-
-  
-### Connect with me  
-<a href="https://linkedin.com/in/wuaicot" target="_blank">
-<img src=https://cdn-icons-png.flaticon.com/512/174/174857.png alt=linkedin style="margin-bottom: 5px;" height="50"/>
-</a> <br/>
-### Languages and Tools:  
-<div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wuaicot/wuaicot8/main/banner-naycol.gif" alt="Banner de Naycol Linares - Desarrollador Full Stack">
 </div>
-<!--
-**wuaicot/wuaicot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Naycol+Rodolfo+Linares+Villasmil;Desarrollador+Full+Stack;Transformando+ideas+en+código;Apasionado+por+la+tecnología" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+### <p align="center">🚀 Mi Misión como Desarrollador 🚀</p>
+
+<p align="center">
+  Soy un desarrollador que fusiona la precisión y la visión de la <b>arquitectura</b> con el poder y la lógica del <b>desarrollo Full Stack</b>. Mi objetivo es construir soluciones digitales intuitivas, robustas y escalables que no solo resuelvan problemas, sino que también ofrezcan experiencias de usuario memorables. Con experiencia en entornos complejos como <b>SAP</b> y en la creación de plataformas de <b>E-Commerce</b>, estoy listo para enfrentar cualquier desafío técnico.
+</p>
+
+---
+
+### <p align="center">🛠️ Mi Caja de Herramientas Tecnológicas 🛠️</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#-javascript">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#-typescript">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#-react">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#-nodejs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#-postgresql">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="#-express">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" style="filter: invert(1)" />
+        </a>
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <a href="#-firebase">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="Firebase" />
+        </a>
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### <p align="center">📊 Mis Estadísticas en GitHub 📊</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wuaicot8&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Naycol" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuaicot8&layout=compact&langs_count=8&theme=discord_old_blurple" alt="Lenguajes más usados por Naycol" />
+</div>
+
+---
+
+### <p align="center">🐍 Mi Historial de Contribuciones Animado 🐍</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wuaicot8/wuaicot8/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones de GitHub" />
+</div>
+<p align="center"><i><small>Esta animación se actualiza automáticamente. ¡Genial, verdad?</small></i></p>
+
+---
+
+### <p align="center">📫 Conectemos</p>
+
+<p align="center">
+  <b>¡Siempre estoy abierto a colaborar en proyectos interesantes o a tener una buena charla sobre tecnología!</b>
+  <br><br>
+  <a href="https://linkedin.com/in/wuaicot" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mi-portafolio-full-stack.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
+  <a href="mailto:wuaicot8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
