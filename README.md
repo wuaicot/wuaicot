@@ -14,7 +14,7 @@
 🧩 Antes diseñaba estructuras metálicas, hoy diseño soluciones digitales.  
 📚 En 2022 decidí resetear mi carrera y convertirme en desarrollador Full Stack.  
 🚀 Bootcamp graduado en **Henry** y autodidacta sin botón de pausa.  
-🧠 Amante de resolver problemas, mejorar UX, y refactorizar hasta que el linter llore de felicidad.  
+🧠 Amante de resolver problemas del backend, mejorar UX, y refactorizar hasta que la terminal que todo esté Ok.  
 
 > “Todo gran código conlleva una gran responsabilidad.” – probablemente Wuaicot
 
